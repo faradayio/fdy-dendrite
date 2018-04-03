@@ -1,5 +1,5 @@
 {
-  "name": "@fdy/dendrite",
+  "name": "dendrite",
   "version": "1.0.0",
   "description": "A command-line tool to disaggregate rows in a csv by a 'AND'-delimited field",
   "main": "index.js",
