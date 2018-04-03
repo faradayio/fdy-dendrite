@@ -1,0 +1,24 @@
+{
+  "name": "@fdy/dendrite",
+  "version": "1.0.0",
+  "description": "A command-line tool to disaggregate rows in a csv by a 'AND'-delimited field",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faradayio/dendrite.git"
+  },
+  "bin": {
+    "dendrite": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faradayio/dendrite/issues"
+  },
+  "homepage": "https://github.com/faradayio/dendrite#readme",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "fast-csv": "^2.4.1",
+    "through2": "^2.0.3"
+  }
+}
