@@ -1,5 +1,5 @@
 {
-  "name": "dendrite",
+  "name": "fdy-dendrite",
   "version": "1.0.0",
   "description": "A command-line tool to disaggregate rows in a csv by a 'AND'-delimited field",
   "main": "index.js",
@@ -10,8 +10,8 @@
   "bin": {
     "dendrite": "index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "bill@faraday.io",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/faradayio/dendrite/issues"
   },

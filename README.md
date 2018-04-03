@@ -23,7 +23,7 @@ Sybil,22 Oak Ln,2016-2-21
 Note that Dendrite will disaggregate rows on standard "AND" separators found in the target field. These include `&`, `and`, and `,`.
 
 ## Install
-`npm install -g dendrite`
+`npm install -g fdy-dendrite`
 
 ## Usage
 
